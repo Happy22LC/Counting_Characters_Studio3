@@ -1,0 +1,15 @@
+C:\Users\biswa\Documents\Launch_Code\csharp-practice\CountTheChar\CountTheChar\bin\Debug\net6.0\CountTheChar.exe
+C:\Users\biswa\Documents\Launch_Code\csharp-practice\CountTheChar\CountTheChar\bin\Debug\net6.0\CountTheChar.deps.json
+C:\Users\biswa\Documents\Launch_Code\csharp-practice\CountTheChar\CountTheChar\bin\Debug\net6.0\CountTheChar.runtimeconfig.json
+C:\Users\biswa\Documents\Launch_Code\csharp-practice\CountTheChar\CountTheChar\bin\Debug\net6.0\CountTheChar.dll
+C:\Users\biswa\Documents\Launch_Code\csharp-practice\CountTheChar\CountTheChar\bin\Debug\net6.0\CountTheChar.pdb
+C:\Users\biswa\Documents\Launch_Code\csharp-practice\CountTheChar\CountTheChar\obj\Debug\net6.0\CountTheChar.csproj.AssemblyReference.cache
+C:\Users\biswa\Documents\Launch_Code\csharp-practice\CountTheChar\CountTheChar\obj\Debug\net6.0\CountTheChar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biswa\Documents\Launch_Code\csharp-practice\CountTheChar\CountTheChar\obj\Debug\net6.0\CountTheChar.AssemblyInfoInputs.cache
+C:\Users\biswa\Documents\Launch_Code\csharp-practice\CountTheChar\CountTheChar\obj\Debug\net6.0\CountTheChar.AssemblyInfo.cs
+C:\Users\biswa\Documents\Launch_Code\csharp-practice\CountTheChar\CountTheChar\obj\Debug\net6.0\CountTheChar.csproj.CoreCompileInputs.cache
+C:\Users\biswa\Documents\Launch_Code\csharp-practice\CountTheChar\CountTheChar\obj\Debug\net6.0\CountTheChar.dll
+C:\Users\biswa\Documents\Launch_Code\csharp-practice\CountTheChar\CountTheChar\obj\Debug\net6.0\refint\CountTheChar.dll
+C:\Users\biswa\Documents\Launch_Code\csharp-practice\CountTheChar\CountTheChar\obj\Debug\net6.0\CountTheChar.pdb
+C:\Users\biswa\Documents\Launch_Code\csharp-practice\CountTheChar\CountTheChar\obj\Debug\net6.0\CountTheChar.genruntimeconfig.cache
+C:\Users\biswa\Documents\Launch_Code\csharp-practice\CountTheChar\CountTheChar\obj\Debug\net6.0\ref\CountTheChar.dll
